@@ -132,6 +132,13 @@ Find additional documentation on architecture, API usage, and game mechanics in 
 
 Feel free to contribute to improving the game!
 
+## Demo
+<p align="center">
+  <a href="https://youtu.be/pGLRMwyccyU?si=oVTZxEYEhfLpBxXc" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch Demo on YouTube">
+  </a>
+</p>
+
 ## Previews
 
 <img src="./images/login.png" width="300">
