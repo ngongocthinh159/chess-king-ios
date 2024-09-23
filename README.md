@@ -130,7 +130,7 @@ Find additional documentation on architecture, API usage, and game mechanics in 
 
 ## Contributing
 
-Feel free to contribute to improving the game!
+Feel free to contribute to improve the game!
 
 ## Demo
 <p align="center">
